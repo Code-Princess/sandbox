@@ -3,10 +3,12 @@
 /*                                                        :::      ::::::::   */
 /*   function1.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: linda <linda@student.42.fr>                +#+  +:+       +#+        */
+/*   By: llacsivy <llacsivy@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 17:38:41 by linda             #+#    #+#             */
-/*   Updated: 2024/08/06 17:38:42 by linda            ###   ########.fr       */
+/*   Updated: 2024/08/07 22:57:02 by llacsivy         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+in und mit Farbe!
+lindas new feature
